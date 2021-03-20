@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1616222608894,
+      "NIM": "18",
+      "nama": "Aryo",
+      "alamat": "Malang",
+      "hp": "081",
+      "angkatan": "18",
+      "status": "Aktif"
+    },
+    {
+      "id": 1616222654239,
+      "NIM": "19",
+      "nama": "Nata",
+      "alamat": "Papua",
+      "hp": "031",
+      "angkatan": "18",
+      "status": "Aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
